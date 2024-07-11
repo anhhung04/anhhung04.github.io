@@ -21,7 +21,7 @@ timezone: Asia/Ho_Chi_Minh
 title: hah4 # the main title
 
 tagline:
-    Web Exploitation | CTF | Security Researcher | DevSecOps
+    Web Exploitation | DevSecOps
     # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
